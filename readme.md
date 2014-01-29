@@ -16,7 +16,7 @@ Markdown也已经被其他人用Perl和别的编程语言重新实现，其中�
 
 标准Markdown语法包括了标题、强调、引用、列表、链接、图片、代码、分割线和转义反斜杠。
 
-详细的标准语法请见[这里](http://github.com/)
+详细的标准语法请见：<https://github.com/akenzc/Markdown-Tutorial/blob/master/standard-markdown-syntax.md>
 
 ### 扩展markdown语法
 
@@ -26,7 +26,7 @@ GFM是SM的一个超集，对标准Markdown进行了一些扩展.
 
 包括了代码、链接、标题的优化，Issue和request的自动识别、自动@系统用户，以及自动引用。
 
-详细的GFM语法请见[这里](http://github.com/)
+详细的GFM语法请见：<https://github.com/akenzc/Markdown-Tutorial/blob/master/github-flavored-markdown-syntax.md>
 
 #### 2. Pandoc's markdown语法
 注脚、引用表格、上下标、删除线、行区块、定义清单、Raw TeX、数学等均有扩展。
@@ -39,4 +39,4 @@ http://pages.tzengyuxio.me/pandoc/
 ## 在GitHub上用Markdown写作
 GitHub上提供一些特有的符号、快捷键以及功能方便使用Markdown来写作。
 
-具体请看：
+具体请看：<https://github.com/akenzc/Markdown-Tutorial/blob/master/writing-on-github.md>
